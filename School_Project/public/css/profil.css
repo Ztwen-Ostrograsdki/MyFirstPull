@@ -1,0 +1,59 @@
+.container-profil{
+
+}
+
+.onetable{
+	width: 30%;
+	margin: 1%;
+}
+
+.container-profil h5{
+	text-align: center;
+ 	clear: both;
+ 	text-shadow: 0 0 1px rgba(20,255,250,0.8);
+}
+
+.profil-school h3{
+ 	text-shadow: 0 0 2px #3dd374;
+}
+
+.profil-img span{
+
+}
+
+.profil-class{
+	position: relative;
+	top: 60px;
+	font-size: 4rem;
+}
+
+.profil-class small{
+	position: relative;
+	bottom: 20px;
+}
+.profil-img img{
+	position: relative;
+	left: 8%;
+	top: 5px;
+	border: 2px solid orange;
+	display: inline-block;
+	box-shadow: 0 0 5px #3dd374;
+}
+
+.table-profil{
+	width: 100%;
+	border: thin solid gray;
+}
+
+.table-profil tr{
+	background-color: rgba(200,0,250,0.2) !important;
+}
+
+.table-profil td{
+	padding: 0.3rem;
+}
+
+.table-profil tr>td{
+	text-shadow: 0 0 2px orange;
+	font-size: 0.8rem;
+}

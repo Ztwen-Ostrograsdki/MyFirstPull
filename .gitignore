@@ -1,0 +1,4 @@
+.brackets.json
+tmp/*
+composer.lock
+vendor
